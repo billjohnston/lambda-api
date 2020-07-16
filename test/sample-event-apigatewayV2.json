@@ -1,0 +1,37 @@
+{
+  "version":"2.0",
+  "routeKey":"$default",
+  "rawPath":"/test/hello",
+  "rawQueryString":"",
+  "headers": {
+    "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "accept-encoding":"gzip, deflate, br",
+    "accept-language":"en-US,en;q=0.5",
+    "content-length":"0",
+    "host":"jvm2zs6j40.execute-api.us-east-1.amazonaws.com",
+    "upgrade-insecure-requests":"1",
+    "user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0",
+    "x-amzn-trace-id":"Root=1-5f04a4c5-cbf21c58ed10c750a2cc5ba0",
+    "x-forwarded-for":"100.38.160.188",
+    "x-forwarded-port":"443",
+    "x-forwarded-proto":"https"
+  },
+  "requestContext": {
+    "accountId":"526723692591",
+    "apiId":"jvm2zs6j40",
+    "domainName":"jvm2zs6j40.execute-api.us-east-1.amazonaws.com",
+    "domainPrefix":"jvm2zs6j40",
+    "http": {
+      "method":"GET",
+      "path":"/status",
+      "protocol":"HTTP/1.1",
+      "sourceIp":"100.38.160.188",
+      "userAgent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"},
+      "requestId":"PT6u8g24IAMES_Q=",
+      "routeKey":"$default",
+      "stage":"$default",
+      "time":"07/Jul/2020:16:37:25 +0000",
+      "timeEpoch":1594139845984
+    },
+  "isBase64Encoded":false
+}
